@@ -1,2 +1,2 @@
-# -Logeshparthiban.github.io
+# Logeshparthiban.github.io
 Embedded software developer
